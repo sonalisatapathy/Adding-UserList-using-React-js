@@ -1,0 +1,21 @@
+.contact_container{
+    text-align: center;
+}
+.labelContainer{
+    display: inline-block;
+    width: 100px;
+    padding: 13px;
+    font-size: x-large;
+}
+input{
+    width :20%;
+    padding: 10px;
+}
+input:hover{
+    border: 3px solid blue;
+}
+button{
+    margin: 10px 0;
+    background-color: blue;
+    padding: 5px;
+}

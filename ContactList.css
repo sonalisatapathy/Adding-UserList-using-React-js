@@ -1,0 +1,25 @@
+li{
+    list-style: none;
+}
+.mainContaintOfCL{
+    border: 1px solid;
+}
+.mainContaintOfCL h2{
+    text-align: center;
+}
+.contactLists{
+    border: 2px solid;
+    margin: 24px;
+}
+.listItems{
+    border: 1px solid;
+    margin: 10px;
+}
+.deleteKey{
+    float: right;
+    margin-right: 20px;
+}
+.deleteKey a{
+    text-decoration: none;
+    color: red
+}

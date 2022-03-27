@@ -1,0 +1,13 @@
+/* for err  */
+.errContainer{
+    display: inline-block;
+    border: 2px solid;
+    background-color:rgb(170, 161, 161);
+    position: relative;
+    top: 240px;
+    left: 885px;
+    z-index: 13;
+}
+.headerContainer{
+    background-color: rgb(94, 94, 172);
+}
